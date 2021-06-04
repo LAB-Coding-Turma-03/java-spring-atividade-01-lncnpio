@@ -15,7 +15,7 @@ public class HelloWorldController {
 		
 	
   	//Digite -> Hello world !
-		return ResponseEntity.ok("Hello world !");
+		return ResponseEntity.ok("Hello world 2 !");
 	}
 	
 }
